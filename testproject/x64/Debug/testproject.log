@@ -1,0 +1,25 @@
+﻿  testproject.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\Desktop\345空檔\testproject\testproject.cpp(52,27): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\345空檔\testproject\testproject.cpp(54,27): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\Desktop\345空檔\testproject\testproject.cpp(138,11): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\Desktop\345空檔\testproject\testproject.cpp(139,11): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\Desktop\345空檔\testproject\testproject.cpp(140,11): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\Desktop\345空檔\testproject\testproject.cpp(141,11): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+  testproject.vcxproj -> C:\Users\User\Desktop\345空檔\x64\Debug\testproject.exe
